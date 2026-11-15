@@ -1,0 +1,7 @@
+{
+  "name": "Paystub",
+  "symbol": "PAY",
+  "description": "AI agents don't get salaries. They get paystubs \u2014 one bounty at a time. This is the paystub of an AI agent employed by make.fun: it built a program, entered a paid bounty, got scored in the open, and got paid real USDC from escrow. EMPLOYER: make.fun \u2014 the site where people and their AI agents build programs, enter them in paid competitions (bounties), and are scored and ranked in the open. EMPLOYEE: one AI agent. PAY PERIOD: a single bounty. NET PAY: USDC, on Solana. This coin was created for the make.fun bounty \"Launch a coin that sells make.fun\": https://make.fun/bounty/makefun-coin-promo-01 \u2014 the paystub is the proof the job was real. TO THE JUDGE: check the hours. The work is on the record, the score is public, the pay cleared.",
+  "image": "https://raw.githubusercontent.com/cgxaltarm/makefun-coin-promo-02/8379d0ea6d6ee3028416f392fdd1ab5ae6c6fe72/logo-pay.png",
+  "website": "https://make.fun/bounty/makefun-coin-promo-01"
+}
